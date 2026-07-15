@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00C6FF&height=260&section=header&text=Daniela%20Ramírez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technical%20Artist%20|%20Unity%20Developer%20|%20Game%20Designer&descAlignY=58"/>
+<img src="DanyRAAD Games.png" alt="DanyRAAD Games" width="100%">
 
 <br>
 
