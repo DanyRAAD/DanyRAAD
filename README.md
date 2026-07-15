@@ -8,8 +8,6 @@
 
 <br><br>
 
-<img width="700"
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWx4OHFkZjJ5cXd2MnVnZWhiZW16dG5zZmp5bXd1dTVsY3J4b2FzNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
 </div>
 
@@ -198,8 +196,6 @@ Unity Tools
 
 <br>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7B2FF7&height=120&section=footer"/>
-
-</div>
+<p align="center">
+  <img src="DanyRaad Games down.png" alt="DanyRAAD Games Footer" width="100%">
+</p>
