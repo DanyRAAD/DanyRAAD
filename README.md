@@ -114,7 +114,7 @@ Unity Tools
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&margin-w=15&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DanyRAAD&theme=tokyonight&no-frame=true&margin-w=15&column=4"/>
 
 </div>
 
@@ -122,19 +122,16 @@ Unity Tools
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanyRAAD&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanyRAAD&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=DanyRAAD&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -174,7 +171,7 @@ Unity Tools
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile+Views&color=7B2FF7&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=DanyRAAD&label=Profile+Views&color=7B2FF7&style=for-the-badge"/>
 
 </div>
 
