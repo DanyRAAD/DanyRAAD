@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=9D7BFF&center=true&vCenter=true&width=900&lines=Building+Immersive+Game+Worlds;Technical+Artist;Environment+Artist;Unity+Developer;Game+Designer;Bridging+Art+%26+Technology"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=9D7BFF&center=true&vCenter=true&width=900&lines=Technical+Artist;Unity+Developer;Game+Designer;"/>
 
 <br><br>
 
