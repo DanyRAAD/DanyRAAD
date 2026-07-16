@@ -149,6 +149,10 @@ Unity Tools
 <img src="./svg/artstation_color.svg" width="35"/>
 </a>
 
+<a href="daniela.ramirez031225@gmail.com">
+<img src="./svg/gmail.svg" width="35"/>
+</a>
+
 <a href="https://danyraad.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge"/>
 </a>
