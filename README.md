@@ -137,6 +137,10 @@ Unity Tools
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
+<a href="https://www.youtube.com/@Ing.DanielaRamirez">
+<img src="./svg/youtube_color.svg" width="60"/>
+</a>
+
 <a href="https://danyraad.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge"/>
 </a>
