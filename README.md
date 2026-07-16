@@ -38,21 +38,15 @@ Currently looking for opportunities as:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=unity,cs,blender,git,github,vscode"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge&logo=autodesk&logoColor=white">
-
-<img src="https://img.shields.io/badge/Substance%20Painter-FF6A00?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Shader%20Graph-8A2BE2?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Environment%20Art-6C63FF?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Level%20Design-0099FF?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/UI%20Design-00D4FF?style=for-the-badge">
+<img src="./svg/unity_gris.svg" width="60"/>
+<img src="./svg/csharp.svg" width="60"/>
+<img src="./svg/blender.svg" width="60"/>
+<img src="./svg/maya.svg" width="60"/>
+<img src="./svg/3dsmax.svg" width="60"/>
+<img src="./svg/substance.svg" width="60"/>
+<img src="./svg/marvelous.svg" width="60"/>
+<img src="./svg/zbrush.svg" width="60"/>
+<img src="./svg/git.svg" width="60"/>
 
 </div>
 
