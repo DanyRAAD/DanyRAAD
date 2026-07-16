@@ -134,11 +134,19 @@ Unity Tools
 <div align="center">
 
 <a href="https://www.linkedin.com/in/daniela-ramirez-developer/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="./svg/linkedin_color.svg" width="40"/>
 </a>
 
 <a href="https://www.youtube.com/@Ing.DanielaRamirez">
-<img src="./svg/youtube_color.svg" width="60"/>
+<img src="./svg/youtube_color.svg" width="40"/>
+</a>
+
+<a href="https://danyraad.itch.io/">
+<img src="./svg/itch-io.svg" width="40"/>
+</a>
+
+<a href="https://www.artstation.com/danyraad">
+<img src="./svg/artstation_color.svg" width="35"/>
 </a>
 
 <a href="https://danyraad.github.io/">
