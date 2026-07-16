@@ -17,11 +17,7 @@
 
 <p align="center" width="800">
 
-Computer Engineer passionate about creating video game experiences.
-
-I enjoy combining programming and digital art to build immersive environments,
-gameplay systems, shaders, editor tools and polished player experiences.
-
+Computer Engineer specializing in Technical Art and game development. I combine programming, 3D art, and creative problem-solving to build immersive interactive experiences. My interests include Unity development, environment and prop creation, gameplay systems, and technical workflows that bridge the gap between artists and developers.
 Currently looking for opportunities as:
 
 🎨 Technical Artist
