@@ -102,15 +102,6 @@ Unity Tools
 
 </table>
 
----
-
-<h2 align="center">🚀 Featured Skills</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DanyRAAD&theme=tokyonight&no-frame=true&margin-w=15&column=4"/>
-
-</div>
 
 ---
 
@@ -129,35 +120,6 @@ Unity Tools
 
 </div>
 
----
-
-<h2 align="center">🎯 Current Focus</h2>
-
-<div align="center">
-
-🌎 Environment Art
-
-<br>
-
-🎮 Unity Development
-
-<br>
-
-🧩 Technical Art Pipelines
-
-<br>
-
-✨ Shader Graph
-
-<br>
-
-⚡ Optimization
-
-<br>
-
-🎨 Stylized Worlds
-
-</div>
 
 ---
 
